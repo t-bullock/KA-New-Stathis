@@ -1,5 +1,8 @@
 {
 .appVersion = "895";
+DisplayStrings = (
+/jump2/summation
+);
 copyright = "SIL OPEN FONT LICENSE Version 1.1";
 date = "2017-03-04 05:06:27 +0000";
 designer = "Trevor Bullock";
@@ -274,11 +277,18 @@ unicode = 0052;
 },
 {
 glyphname = S;
-lastChange = "2019-03-09 21:44:38 +0000";
+lastChange = "2019-06-01 00:00:56 +0000";
 layers = (
 {
+components = (
+{
+alignment = -1;
+name = A;
+transform = "{1, 0, 0, 1, 0, 230}";
+}
+);
 layerId = "6CEC23AD-63B8-45AE-B6E3-0207AF66FF52";
-width = 600;
+width = 0;
 }
 );
 unicode = 0053;
@@ -325,11 +335,18 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2019-03-09 21:44:38 +0000";
+lastChange = "2019-06-01 00:02:24 +0000";
 layers = (
 {
+components = (
+{
+alignment = -1;
+name = Q;
+transform = "{1, 0, 0, 1, 0, 230}";
+}
+);
 layerId = "6CEC23AD-63B8-45AE-B6E3-0207AF66FF52";
-width = 600;
+width = 0;
 }
 );
 unicode = 0057;
@@ -872,14 +889,39 @@ unicode = 0072;
 },
 {
 glyphname = s;
-lastChange = "2019-03-09 21:44:38 +0000";
+lastChange = "2019-05-31 23:59:21 +0000";
 layers = (
 {
+components = (
+{
+alignment = -1;
+name = a;
+transform = "{1, 0, 0, 1, 0, 230}";
+}
+);
 layerId = "6CEC23AD-63B8-45AE-B6E3-0207AF66FF52";
-width = 600;
+width = 0;
 }
 );
 unicode = 0073;
+},
+{
+glyphname = germandbls;
+lastChange = "2019-06-01 00:01:59 +0000";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = aring;
+transform = "{1, 0, 0, 1, 0, 230}";
+}
+);
+layerId = "6CEC23AD-63B8-45AE-B6E3-0207AF66FF52";
+width = 0;
+}
+);
+unicode = 00DF;
 },
 {
 glyphname = t;
@@ -923,11 +965,18 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2019-03-09 21:44:38 +0000";
+lastChange = "2019-05-31 23:59:54 +0000";
 layers = (
 {
+components = (
+{
+alignment = -1;
+name = q;
+transform = "{1, 0, 0, 1, 0, 230}";
+}
+);
 layerId = "6CEC23AD-63B8-45AE-B6E3-0207AF66FF52";
-width = 600;
+width = 0;
 }
 );
 unicode = 0077;
@@ -1346,6 +1395,24 @@ width = 0;
 }
 );
 unicode = 222B;
+},
+{
+glyphname = summation;
+lastChange = "2019-06-01 00:04:28 +0000";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = oe;
+transform = "{1, 0, 0, 1, 0, 230}";
+}
+);
+layerId = "6CEC23AD-63B8-45AE-B6E3-0207AF66FF52";
+width = 0;
+}
+);
+unicode = 2211;
 },
 {
 glyphname = radical;
