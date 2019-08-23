@@ -1,7 +1,8 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-/_part.oligon_combo_side
+/_part.oligon_combo_side,
+"Wf1f0f@f#f"
 );
 copyright = "SIL OPEN FONT LICENSE Version 1.1";
 date = "2019-03-21 03:41:03 +0000";
@@ -704,17 +705,17 @@ unicode = 0065;
 },
 {
 glyphname = f;
-lastChange = "2019-04-14 22:15:09 +0000";
+lastChange = "2019-08-23 23:43:31 +0000";
 layers = (
 {
 components = (
 {
 name = _part.haple;
-transform = "{1, 0, 0, 1, -830, -70}";
+transform = "{1, 0, 0, 1, -800, -70}";
 },
 {
 name = _part.haple;
-transform = "{1, 0, 0, 1, -630, -70}";
+transform = "{1, 0, 0, 1, -600, -70}";
 }
 );
 layerId = "20C554A3-F216-4737-9237-B29012AE295F";
@@ -1673,7 +1674,7 @@ unicode = 0021;
 },
 {
 glyphname = numbersign;
-lastChange = "2019-04-14 22:15:09 +0000";
+lastChange = "2019-08-23 23:43:46 +0000";
 layers = (
 {
 components = (
@@ -1713,7 +1714,7 @@ nodes = (
 );
 }
 );
-width = 1014;
+width = 1061;
 }
 );
 unicode = 0023;
