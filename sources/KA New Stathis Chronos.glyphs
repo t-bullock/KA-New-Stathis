@@ -1,5 +1,9 @@
 {
 .appVersion = "895";
+DisplayStrings = (
+"/_part.apostrophos v/radical V",
+"/_part.oligon z"
+);
 copyright = "SIL OPEN FONT LICENSE Version 1.1";
 date = "2017-03-04 05:06:27 +0000";
 designer = "Trevor Bullock";
@@ -314,14 +318,14 @@ unicode = 0055;
 },
 {
 glyphname = V;
-lastChange = "2019-03-09 21:44:38 +0000";
+lastChange = "2019-08-25 17:06:49 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = Z;
-transform = "{1, 0, 0, 1, 470, 0}";
+transform = "{1, 0, 0, 1, 470, 20}";
 }
 );
 layerId = "6CEC23AD-63B8-45AE-B6E3-0207AF66FF52";
@@ -944,14 +948,14 @@ unicode = 0075;
 },
 {
 glyphname = v;
-lastChange = "2019-03-09 21:44:38 +0000";
+lastChange = "2019-08-25 17:06:34 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = z;
-transform = "{1, 0, 0, 1, 470, 0}";
+transform = "{1, 0, 0, 1, 470, 20}";
 }
 );
 layerId = "6CEC23AD-63B8-45AE-B6E3-0207AF66FF52";
@@ -1413,14 +1417,14 @@ unicode = 2211;
 },
 {
 glyphname = radical;
-lastChange = "2019-03-09 21:44:38 +0000";
+lastChange = "2019-08-25 17:07:06 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = Omega;
-transform = "{1, 0, 0, 1, 470, 0}";
+transform = "{1, 0, 0, 1, 470, 20}";
 }
 );
 layerId = "6CEC23AD-63B8-45AE-B6E3-0207AF66FF52";
