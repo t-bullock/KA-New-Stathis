@@ -7943,6 +7943,7 @@ glyphname = _part.chromatic_di;
 lastChange = "2019-11-21 03:13:50 +0000";
 layers = (
 {
+associatedMasterId = "D1C4165B-E3E2-4D62-AECC-2C83EA926F78";
 layerId = "58F06D2A-189F-4E46-A189-9649C7890837";
 paths = (
 {
@@ -8151,6 +8152,24 @@ nodes = (
 width = 334;
 }
 );
+},
+{
+glyphname = dotaccent;
+lastChange = "2019-12-18 00:47:18 +0000";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = h;
+transform = "{1, 0, 0, 1, 220, 0}";
+}
+);
+layerId = "D1C4165B-E3E2-4D62-AECC-2C83EA926F78";
+width = 0;
+}
+);
+unicode = 02D9;
 }
 );
 instances = (
