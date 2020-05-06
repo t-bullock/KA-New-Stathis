@@ -6,4 +6,6 @@ This font is designed for typing Byzantine Music Scores using [Kassia](https://g
 
 ## Key Combinations
 
-![Kassia Keyboard Layout](kassia_layout_main.png?raw=true)
+#### Kassia Main
+![Kassia Keyboard Layout](docs/kassia_layout_main.png?raw=true)
+![Kassia Keyboard Layout](docs/kassia_layout_main_shift.png?raw=true)
