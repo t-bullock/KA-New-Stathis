@@ -177,17 +177,6 @@ width = 0;
 unicode = 004B;
 },
 {
-glyphname = N;
-lastChange = "2019-11-21 03:13:50 +0000";
-layers = (
-{
-layerId = "D1C4165B-E3E2-4D62-AECC-2C83EA926F78";
-width = 600;
-}
-);
-unicode = 004E;
-},
-{
 glyphname = Q;
 lastChange = "2019-11-21 03:13:50 +0000";
 layers = (
@@ -360,6 +349,18 @@ width = 600;
 }
 );
 unicode = 004D;
+},
+{
+export = 0;
+glyphname = N;
+lastChange = "2020-07-11 15:49:57 +0000";
+layers = (
+{
+layerId = "D1C4165B-E3E2-4D62-AECC-2C83EA926F78";
+width = 600;
+}
+);
+unicode = 004E;
 },
 {
 export = 0;
